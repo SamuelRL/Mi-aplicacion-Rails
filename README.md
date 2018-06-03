@@ -1,4 +1,4 @@
-# Mi apliacion en rails
+# Mi aplicación en rails
 
 Esta es una aplicación de pinterest hecha en Rails
 
